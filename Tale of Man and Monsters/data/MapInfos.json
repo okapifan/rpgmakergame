@@ -1,5 +1,6 @@
 [
 null,
-{"id":1,"expanded":false,"name":"MAP001","order":1,"parentId":0,"scrollX":819,"scrollY":453},
-{"id":2,"expanded":false,"name":"Wurrywield Town","order":2,"parentId":1,"scrollX":811,"scrollY":499}
+{"id":1,"expanded":true,"name":"MAP001","order":1,"parentId":0,"scrollX":819,"scrollY":453},
+{"id":2,"expanded":true,"name":"Wurrywield Town","order":2,"parentId":1,"scrollX":811,"scrollY":515},
+{"id":3,"expanded":false,"name":"Wurrywield Hero House","order":3,"parentId":2,"scrollX":819,"scrollY":453}
 ]
