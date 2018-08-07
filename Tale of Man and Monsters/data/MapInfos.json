@@ -5,5 +5,6 @@ null,
 {"id":3,"expanded":false,"name":"Wurrywield Hero House","order":3,"parentId":2,"scrollX":819,"scrollY":453},
 {"id":4,"expanded":false,"name":"Wurrywield House A","order":4,"parentId":2,"scrollX":819,"scrollY":453},
 {"id":5,"expanded":false,"name":"Wurrywield House B","order":5,"parentId":2,"scrollX":819,"scrollY":453},
-{"id":6,"expanded":false,"name":"Route 1","order":6,"parentId":1,"scrollX":1101,"scrollY":445}
+{"id":6,"expanded":false,"name":"Route 1","order":7,"parentId":1,"scrollX":819,"scrollY":445},
+{"id":7,"expanded":false,"name":"Secret A","order":6,"parentId":2,"scrollX":819,"scrollY":453}
 ]
